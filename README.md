@@ -1,16 +1,9 @@
-### Hi there 👋
-
-<!--
-**KumarOjas/KumarOjas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on react
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on react and node.js 
-- 🤔 I’m looking for help with 
-- 💬 Ask me about data structures 
-- 📫 How to reach me: ojaskumargupta@gmail.com
-- 😄 Pronouns: abcd
-- ⚡ Fun fact: Just a nice repo.
--->
+🔭 I’m currently working on a product ( React] 📦 )
+🌱 I’m currently learning React and Astrophysics ✨ 🔭.
+👯 I’m looking to collaborate on projects made with Python 🐍, JS/TS.
+🤔 I’m looking for help with React  documents.
+💬 Ask me about abstractions, Relational DBs, TypeScript, Django and ofc Special Relativity.
+📫 How to reach me: 201852016@iiitvadodara.ac.in
+⚡ Fun fact: I am working on data structure on leetcode 
+😄 Pronouns: He/Him 🙍🏻‍♂️
+⚡ Fun fact: I hunt for unanswered questions on StackOverflow

@@ -16,7 +16,7 @@
 📫 How to reach me: 201852016@iiitvadodara.ac.in
 
 
-⚡ Fun fact: I am working on data structure on leetcode 
+⚡ Fun fact: I am working on data structure on interviewbit. 
 
 
 😄 Pronouns: He/Him 🙍🏻‍♂️

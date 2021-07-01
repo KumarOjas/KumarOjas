@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning React and Astrophysics ✨ 🔭.
 
+MY YOUTUBE CHANNEL:The_indian_techster_
+
 
 👯 I’m looking to collaborate on projects made with Python 🐍, JS/TS.
 

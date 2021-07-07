@@ -15,7 +15,8 @@ MY YOUTUBE CHANNEL:The_indian_techster_
 💬 Ask me about abstractions, Relational DBs, TypeScript, Django and ofc Special Relativity.
 
 
-📫 How to reach me: 201852016@iiitvadodara.ac.in
+📫 How to reach me: ojaskumargupta@gmail.com
+
 
 
 ⚡ Fun fact: I am working on data structure on interviewbit. 

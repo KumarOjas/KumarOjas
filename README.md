@@ -3,6 +3,8 @@
 
 🌱 I’m currently learning React and Astrophysics ✨ 🔭.
 
+ 🌱 I’m a final year  undergraduate at IIIT Vadodara learning React and React Native ✨ 🔭.
+
 MY YOUTUBE CHANNEL:The_indian_techster_
 
 

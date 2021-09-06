@@ -1,11 +1,9 @@
 🔭 I’m currently working on a product ( React] 📦 )
 
 
-🌱 I’m currently learning React and Astrophysics ✨ 🔭.
+ 🌱 I’m  currently learning React and React Native ✨ 🔭.
 
- 🌱 I’m a final year  undergraduate at IIIT Vadodara learning React and React Native ✨ 🔭.
-
-MY YOUTUBE CHANNEL:The_indian_techster_
+   MY YOUTUBE CHANNEL:The_indian_techster_
 
 
 👯 I’m looking to collaborate on projects made with Python 🐍, JS/TS.

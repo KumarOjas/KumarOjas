@@ -19,7 +19,7 @@
 
 
 
-⚡ Fun fact: I am working on data structure on interviewbit. 
+⚡ Fun fact: I am working on data structure on geeksforgeeks.
 
 
 😄 Pronouns: He/Him 🙍🏻‍♂️

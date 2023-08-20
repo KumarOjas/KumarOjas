@@ -1,18 +1,7 @@
-🔭 I’m currently working on a product ( React] 📦 )
+🔭 I’m currently working on a product (Javascript  and React] 📦 )
 
 
- 🌱 I’m  currently learning React and React Native ✨ 🔭.
-
-   MY YOUTUBE CHANNEL:The_indian_techster_
-
-
-👯 I’m looking to collaborate on projects made with Python 🐍, JS/TS.
-
-
-🤔 I’m looking for help with React  documents.
-
-
-💬 Ask me about abstractions, Relational DBs, TypeScript, Django and ofc Special Relativity.
+ 🌱 I’m  currently learning React and javascript ✨ 🔭.
 
 
 📫 How to reach me: ojaskumargupta@gmail.com

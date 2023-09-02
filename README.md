@@ -11,33 +11,6 @@
 
 📫 How to reach me: ojaskumargupta@gmail.com
 
-Languages and Tools:
-Visual Studio Code
-
-CPP
-
-HTML5
-
-CSS3
-
-JavaScript
-
-React
-
-Node.js
-
-PHP
-
-SQL
-
-MySQL
-
-MongoDB
-
-Git
-
-GitHub
-
 
 
 

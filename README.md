@@ -1,7 +1,7 @@
 
 
 
- 🌱 I’m  currently learning React and golang. ✨ 🔭.
+ 🌱 I’m  currently learning React. ✨ 🔭.
 
 🌱 I’m currently building MERN projects
 

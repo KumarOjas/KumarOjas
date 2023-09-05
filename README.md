@@ -1,7 +1,7 @@
-🔭 I’m currently working on a product (Javascript  and React] 📦 )
 
 
- 🌱 I’m  currently learning React and javascript ✨ 🔭.
+
+ 🌱 I’m  currently learning React and golang. ✨ 🔭.
 
 🌱 I’m currently building MERN projects
 

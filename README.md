@@ -3,7 +3,7 @@
 
  🌱 I’m  currently learning React. ✨ 🔭.
 
-🌱 I’m currently building MERN projects
+
 
 💻 I’m a Full stack developer
 

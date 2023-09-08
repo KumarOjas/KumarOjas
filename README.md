@@ -5,7 +5,7 @@
 
 
 
-💻 I’m a Full stack developer
+💻 I’m a Frontend  developer
 
 🥅 2023 Goals: Build some new cool projects
 

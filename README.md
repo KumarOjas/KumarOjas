@@ -7,7 +7,7 @@
 
 💻 I’m a Frontend  developer
 
-🥅 2023 Goals: Build some new cool projects
+🥅 2024 Goals: Build some new cool projects
 
 📫 How to reach me: ojaskumargupta@gmail.com
 

@@ -11,7 +11,7 @@
 
 📫 How to reach me: ojaskumargupta@gmail.com
 
-⚡ Fun fact: I am working on data structure on geeksforgeeks.
+⚡ Fun fact: I am working on data structure on codechef.
 
 
 😄 Pronouns: He/Him 🙍🏻‍♂️

@@ -7,3 +7,4 @@
 Beyond work, I enjoy playing cricket, painting, and participating in social welfare programs like cleaning gardens and teaching underprivileged children. Let's connect and explore the world of technology together! 😃.
 
   
+![](https://komarev.com/ghpvc/?username=KumarOjas)

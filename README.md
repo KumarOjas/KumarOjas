@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **react,c++,html and css**
 
-- 📫 How to reach me **ojaskumargupta@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
